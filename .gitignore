@@ -1,6 +1,5 @@
-# Logs
-logs
-* .log
-* .mjml
+logs/
+*.log
+*.mjml
 .DS_Store
 Thumbs.db
